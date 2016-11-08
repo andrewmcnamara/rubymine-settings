@@ -5,6 +5,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.slim" value="Slim" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" value="yaml" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.rb" value="ruby" />
