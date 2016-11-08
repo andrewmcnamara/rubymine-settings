@@ -1,5 +1,6 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.slim" value="Slim" />
@@ -13,6 +14,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.rb" value="ruby" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" value="ruby" />
