@@ -848,6 +848,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-59a7d5a62756/vendor" />
       </SOURCES>
     </library>
+    <library name="amf-shared-assets (v0.0.1@5c78cd, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-5c78cdd58e93/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-5c78cdd58e93/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-5c78cdd58e93/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-5c78cdd58e93/vendor" />
+      </SOURCES>
+    </library>
     <library name="amf-shared-assets (v0.0.1@5d5362, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-5d5362009fa2/lib" />
@@ -1046,6 +1056,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-1d9d49ab09f0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-1d9d49ab09f0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="amf-ui-library (v0.0.1@3243ff, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-3243ff674fe8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-3243ff674fe8/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-3243ff674fe8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-3243ff674fe8/vendor" />
       </SOURCES>
     </library>
     <library name="amf-ui-library (v0.0.1@3cc31e, rbenv: 2.3.1) [gem]">
