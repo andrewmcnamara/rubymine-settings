@@ -988,6 +988,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-96f4f7c96c44/vendor" />
       </SOURCES>
     </library>
+    <library name="amf-shared-assets (v0.0.1@9bb3c5, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-9bb3c5da6fd2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-9bb3c5da6fd2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-9bb3c5da6fd2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-9bb3c5da6fd2/vendor" />
+      </SOURCES>
+    </library>
     <library name="amf-shared-assets (v0.0.1@a31825, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-a31825b81857/lib" />
@@ -4532,6 +4542,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hurley-0.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hurley-0.2/script" />
+      </SOURCES>
+    </library>
+    <library name="hydra (v0.1.0@1dc640, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/hydra-ruby-1dc640bec52b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/hydra-ruby-1dc640bec52b/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/hydra-ruby-1dc640bec52b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/hydra-ruby-1dc640bec52b/lib" />
       </SOURCES>
     </library>
     <library name="hydra (v0.1.0@34ff87, rbenv: 2.3.1) [gem]">
@@ -8944,6 +8964,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.0/.travis" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.0/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/benchmarking" />
       </SOURCES>
     </library>
     <library name="redis-actionpack (v4.0.1, rbenv: 2.3.1) [gem]">
