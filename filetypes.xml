@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="YAML" />
     </extensionMap>
   </component>
 </application>
