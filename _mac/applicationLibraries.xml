@@ -1174,6 +1174,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-eabf5c78d060/vendor" />
       </SOURCES>
     </library>
+    <library name="amf-shared-assets (v0.0.1@ed1b3b, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-ed1b3b32e1d3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-ed1b3b32e1d3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-ed1b3b32e1d3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-ed1b3b32e1d3/vendor" />
+      </SOURCES>
+    </library>
     <library name="amf-shared-assets (v0.0.1@f7eb20, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-f7eb20b08f7f/lib" />
@@ -1272,6 +1282,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-70f471938183/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-70f471938183/vendor" />
+      </SOURCES>
+    </library>
+    <library name="amf-ui-library (v0.0.1@7634c8, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-7634c8b81bf4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-7634c8b81bf4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-7634c8b81bf4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-ui-library-7634c8b81bf4/vendor" />
       </SOURCES>
     </library>
     <library name="amf-ui-library (v0.0.1@7c2d07, rbenv: 2.3.1) [gem]">
@@ -6762,6 +6782,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/mina-1.0.3/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/mina-1.0.3/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/mina-1.0.3/test_env" />
+      </SOURCES>
+    </library>
+    <library name="mina-hipchat (v0.2.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mina-hipchat-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mina-hipchat-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mina-hipchat-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mina-hipchat-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="mina-hipchat (v0.2.0, rbenv: 2.3.3) [gem]">
