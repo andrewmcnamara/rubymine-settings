@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="remote_model.rn" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="Ruby" />
       <mapping ext="sample" type="YAML" />
     </extensionMap>
   </component>
