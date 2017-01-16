@@ -5078,6 +5078,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/grape-swagger-rails-7327fda26fc5/config" />
       </SOURCES>
     </library>
+    <library name="grape_on_rails_routes (v0.3.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/grape_on_rails_routes-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/grape_on_rails_routes-0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gravtastic (v3.2.6, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/gravtastic-3.2.6/lib" />
