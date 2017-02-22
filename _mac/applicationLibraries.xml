@@ -1024,6 +1024,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-0ec7e7cb9d8c/vendor" />
       </SOURCES>
     </library>
+    <library name="amf-shared-assets (v0.0.1@16ce33, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-16ce338c489d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-16ce338c489d/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-16ce338c489d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-16ce338c489d/vendor" />
+      </SOURCES>
+    </library>
     <library name="amf-shared-assets (v0.0.1@1bfa0f, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-1bfa0fa92f3f/lib" />
@@ -1462,6 +1472,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-f7eb20b08f7f/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-f7eb20b08f7f/vendor" />
+      </SOURCES>
+    </library>
+    <library name="amf-shared-assets (v0.0.1@fff8b9, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-fff8b92f2cb9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-fff8b92f2cb9/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-fff8b92f2cb9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/amf-shared-assets-fff8b92f2cb9/vendor" />
       </SOURCES>
     </library>
     <library name="amf-ui-library (v0.0.1@08b61a, rbenv: 2.3.1) [gem]">
@@ -2100,6 +2120,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/awesome_print-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="awesome_print (v1.7.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/awesome_print-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/awesome_print-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v2.0.38, rbenv: 2.3.1) [gem]">
@@ -9664,6 +9692,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="pry-doc (v0.10.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-doc-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-doc-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-rails (v0.3.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/lib" />
@@ -14734,6 +14770,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.5/templates" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.5/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.8, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
       </SOURCES>
     </library>
     <library name="yodleezy (v0.0.1@10c1f6, rbenv: 2.2.2) [gem]">
