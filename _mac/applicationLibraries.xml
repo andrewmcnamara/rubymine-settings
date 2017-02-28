@@ -2290,6 +2290,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.6.5/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.7.12, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-2.7.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-2.7.12/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.7.3, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.7.3/lib" />
@@ -2580,6 +2588,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.6.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.7.12, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.12/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.7.3, rbenv: 2.3.1) [gem]">
@@ -5228,6 +5244,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/samples" />
+      </SOURCES>
+    </library>
+    <library name="flare_client (v0.1.0@e674c5, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/flare_client-e674c56b8355/samples" />
       </SOURCES>
     </library>
     <library name="flare_client (v0.1.0@e7b1e2, rbenv: 2.3.1) [gem]">
@@ -13392,6 +13420,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/shoryuken_client-7a559659a915/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/shoryuken_client-7a559659a915/lib" />
+      </SOURCES>
+    </library>
+    <library name="shoryuken_client (v0.1.0@7a5596, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/shoryuken_client-7a559659a915/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/shoryuken_client-7a559659a915/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/shoryuken_client-7a559659a915/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/shoryuken_client-7a559659a915/lib" />
       </SOURCES>
     </library>
     <library name="shoryuken_client (v0.1.0@b816e4, rbenv: 2.3.1) [gem]">
