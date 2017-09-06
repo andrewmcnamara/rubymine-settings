@@ -22,6 +22,15 @@
       <mask>*.rb</mask>
       <mask>*.yml</mask>
       <mask>*.coffee</mask>
+      <mask>r</mask>
+      <mask>re</mask>
+      <mask>red</mask>
+      <mask>redu</mask>
+      <mask>reduc</mask>
+      <mask>reduce</mask>
+      <mask>reducer</mask>
+      <mask>reducers</mask>
+      <mask>reducers*</mask>
     </recentFileMasks>
   </component>
 </application>
