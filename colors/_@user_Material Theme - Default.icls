@@ -4,12 +4,12 @@
     <property name="created">2016-12-05T08:14:49</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-09-14T14:48:30</property>
+    <property name="modified">2017-09-14T14:50:59</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -1478,7 +1478,7 @@
     <option name="RUBY_INTERPOLATED_STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
@@ -1550,7 +1550,6 @@
     <option name="RUBY_STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
