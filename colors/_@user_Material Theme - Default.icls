@@ -1,9 +1,10 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-12-05T08:14:49</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-05T08:16:39</property>
+    <property name="modified">2017-09-14T14:48:30</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <font>
@@ -12,7 +13,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -1477,6 +1478,7 @@
     <option name="RUBY_INTERPOLATED_STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
@@ -1548,6 +1550,7 @@
     <option name="RUBY_STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
