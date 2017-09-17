@@ -4,16 +4,16 @@
     <property name="created">2016-12-05T08:14:49</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-09-14T14:50:59</property>
+    <property name="modified">2017-09-18T09:25:01</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Hasklig" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
