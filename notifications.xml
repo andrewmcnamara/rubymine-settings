@@ -7,5 +7,6 @@
     <notification groupId="Database view" shouldLog="false" />
     <notification groupId="Database view log" displayType="NONE" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
+    <notification groupId="Rubocop.Notification" shouldLog="false" />
   </component>
 </application>
