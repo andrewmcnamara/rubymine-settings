@@ -2314,6 +2314,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/factory_girl_rails-4.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.8.4, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/faker-1.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/faker-1.8.4/lib" />
+      </SOURCES>
+    </library>
     <library name="fakeredis (v0.6.0, rbenv: 2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/fakeredis-0.6.0/lib" />
