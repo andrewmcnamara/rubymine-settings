@@ -1038,6 +1038,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/lib" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.0, rbenv: 2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.0, rbenv: 2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
