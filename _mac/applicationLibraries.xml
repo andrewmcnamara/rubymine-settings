@@ -1984,6 +1984,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/elasticsearch-api-5.0.4/utils" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-dsl (v0.1.5, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/elasticsearch-dsl-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/elasticsearch-dsl-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-transport (v1.0.18, rbenv: 2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/elasticsearch-transport-1.0.18/lib" />
