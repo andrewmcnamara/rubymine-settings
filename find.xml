@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../spec/commands/access_grant_commands/change_organization_access_spec.rb [bugcrowd]'" />
+    <option name="defaultScopeName" value="File '.../spec/commands/access_grant_commands/change_organization_access_spec.rb [bugcrowd]'" />
+    <option name="SEARCH_SCOPE" value="File '.../spec/commands/access_grant_commands/change_organization_access_spec.rb [bugcrowd]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
