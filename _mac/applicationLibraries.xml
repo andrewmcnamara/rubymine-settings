@@ -2776,6 +2776,20 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-4.2.9/bin" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v5.0.5, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/web" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/web" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-5.0.5/.github" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-ent (v1.5.2, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.5.2/bin" />
@@ -2788,6 +2802,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-ent (v1.6.1, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.6.1/web" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-ent-1.6.1/web" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-pro (v3.4.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.4.3/lib" />
@@ -2796,6 +2822,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.4.3/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.4.3/web" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-pro (v3.7.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.7.0/web" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.7.0/web" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/sidekiq-pro-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="sixarm_ruby_unaccent (v1.1.1, ruby-2.3.6-p384) [gem]">
