@@ -392,16 +392,16 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.16.0, ruby-2.3.6-p384) [gem]">
+    <library name="bundler (v1.16.1, ruby-2.3.6-p384) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib" />
       </SOURCES>
     </library>
     <library name="bundler-audit (v0.5.0, ruby-2.3.6-p384) [gem]">
@@ -688,36 +688,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta14, rbenv: 2.3.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/ext" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta14, rbenv: 2.3.5) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/ext" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta14, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta14/ext" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.2, ruby-2.3.6-p384) [gem]">
@@ -2664,42 +2634,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/rubocop-rspec-1.15.1/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/rubocop-rspec-1.15.1/config" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.6.1.beta12, rbenv: 2.3.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.6.1.beta12, rbenv: 2.3.5) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.6.1.beta12, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, ruby-2.3.6-p384) [gem]">
