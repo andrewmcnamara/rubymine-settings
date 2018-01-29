@@ -1906,6 +1906,26 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.1/patches" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2/patches" />
+      </SOURCES>
+    </library>
     <library name="oauth (v0.5.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/oauth-0.5.3/lib" />
