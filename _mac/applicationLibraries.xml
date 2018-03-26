@@ -3654,6 +3654,22 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rufo (v0.2.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufo-0.2.0/exe" />
+      </SOURCES>
+    </library>
     <library name="safe_yaml (v1.0.4, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.6/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/lib" />
